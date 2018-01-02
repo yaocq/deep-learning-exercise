@@ -1,2 +1,2 @@
 # deep-learning-exercise
-The data analysis projects of Udacity.
+The exercise projects of Udacity's Deep Learning Nano Degree Program.
